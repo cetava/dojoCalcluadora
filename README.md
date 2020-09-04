@@ -27,7 +27,7 @@ Eles são livres para permitir o controle de outros alunos pela tela também.
 - O resultado só deve aparecer na tela depois que o usuário clicar no botão de igual (=).
 
 ## Melhorias no Projeto:
-- [ ] Comentários do código;
+- [x] Comentários do código;
 - [ ] Ajustes no layout: 
   - [ ] Formatação 
   - [ ] Auto Layout;
